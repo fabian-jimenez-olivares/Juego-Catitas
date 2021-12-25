@@ -1,0 +1,25 @@
+Fabián Jiménez 201673503-8
+fabian.jimenez@sansano.usm.cl
+
+
+------- Assets:------- 
+TextMesh Pro
+ jambo-jungle-free-sprites-asset-pack 
+¡Imágenes Google! 
+
+------- Mecánica------- 
+Hacer que un NPC te siga hasta una meta. La idea era crear mayor interacción con el npc que te sigue. Pero no se alcanzó.
+
+
+
+------- Meta------- 
+Evitar morir hasta dejar al npc en el final. No puedes ir al final si no lo rescatas antes.
+
+Juego en la que se baso:
+	Spiritfarer
+	https://igf.com/spiritfarer
+
+****Instrucciones****
+
+Evita morir (caer),
+busca a tu pareja y traela de vuelta a casa (palmera inicial)
