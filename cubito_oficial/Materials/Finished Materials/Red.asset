@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f89720db44da3461a3f58a3bb8fdab9, type: 3}
+  m_Name: Red
+  m_EditorClassIdentifier: 
+  _tritonopia: {fileID: 2100000, guid: 2e466f268e72584988c380b2aee7f77d, type: 2}
+  _protonopia: {fileID: 0}
+  _monochromia: {fileID: 2100000, guid: 6f901b041a6fe2d4baff0707b365aac8, type: 2}

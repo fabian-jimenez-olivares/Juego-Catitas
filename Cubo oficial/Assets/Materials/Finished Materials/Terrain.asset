@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0f89720db44da3461a3f58a3bb8fdab9, type: 3}
+  m_Name: Terrain
+  m_EditorClassIdentifier: 
+  _tritonopia: {fileID: 2100000, guid: 253460c2de0a816f8803b6d44404b450, type: 2}
+  _protonopia: {fileID: 2100000, guid: 5bc907cf15c2cf0c8a33d31db89a3019, type: 2}
+  _monochromia: {fileID: 2100000, guid: 5b80e2d9e3f86948fa067bc1f7a26453, type: 2}
